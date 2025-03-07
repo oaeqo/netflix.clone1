@@ -1,5 +1,5 @@
 {
-  "name": "netflix_clone",
+  "name": "netflix.clone1",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -44,5 +44,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://oaeqo.github.io/netflix_clone/"
+  "homepage": "https://oaeqo.github.io/netflix.clone1/"
 }
